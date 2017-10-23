@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Areen - Perfect HTML template for your business</title>
+	<title>Startup Agency</title>
 
 	<!-- ========== META TAGS ========== -->
 	<meta name="description" content="Options - Responsive Multipurpose HTML Template ">
@@ -68,7 +68,7 @@
 									<div class="me-menu-content">
 										<div class="nav-col">
 											<ul>
-												<li><a href="index.html">Home Default</a></li>
+												<li><a href="{{'index'}}">Home Default</a></li>
 												<li><a href="index-2.html">Business Home 2</a></li>
 												<li><a href="index-3.html">One Page Home</a></li>
 												<li><a href="index-4.html">Business Home 4</a></li>
