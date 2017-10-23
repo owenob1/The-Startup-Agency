@@ -83,7 +83,7 @@
   							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-chatboxes"></i>
   								<h4>Free Consultation</h4>
-  								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  								<p>Book in to meet with one of our consultants who will be able to help guide you in the right direction.</p>
   							</div></a>
   							<!-- /.feature-box -->
   						</div>
@@ -93,7 +93,7 @@
   							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-cube"></i>
   								<h4>Professional Training</h4>
-  								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  								<p>Learn from some of the best in the region with our Lean Startup training solutions.</p>
   							</div></a>
   							<!-- /.feature-box -->
   						</div>
@@ -103,7 +103,7 @@
   							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-ios-pie"></i>
   								<h4>Start Your Business</h4>
-  								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  								<p>Ready to go? We can help get your idea off the ground today.</p>
   							</div></a>
   							<!-- /.feature-box -->
   						</div>
@@ -127,7 +127,7 @@
   								<h1 class="main-title">About Us.</h1>
   							</header>
   							<!-- /.section-title -->
-  							<p>We are young team of highly experienced entrepreneurs! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  							<p>As entrepreneurs, we all understand how difficult it is to start something new without the right support networks. Startup Agency has been built with this in mind, connecting new entrepreneurs to existing startups who want to give back.</p>
                               <ul class="ul-style-3">
   								<li class="col-md-6"><i class="icon ion-checkmark"></i> Learn</li>
   								<li class="col-md-6"><i class="icon ion-checkmark"></i> Build</li>
@@ -164,29 +164,29 @@
   					<div class="row steps">
   						<div class="col-md-3">
                               <img src="images/demo-img-1.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">1. Initial Consultation</h4>
-  							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  							<h4 class="mt10">1. Free Consultation</h4>
+  							<p>This is your first step where we work out the best way to get you connected.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-2.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">2. Customer Validation</h4>
-  							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  							<h4 class="mt10">2. Community Engagement</h4>
+  							<p>An entrepreneur is only as good as their network.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-3.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">3. Minimum Viable Product</h4>
-  							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  							<h4 class="mt10">3. Professional Training</h4>
+  							<p>Learn how to build a product the fastest and most affordable way.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-4.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">4. Growth</h4>
-  							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  							<h4 class="mt10">4. Start Building</h4>
+  							<p>It's time to start building your product.</p>
   						</div>
   						<!-- /.col-md-3 -->
   					</div>
