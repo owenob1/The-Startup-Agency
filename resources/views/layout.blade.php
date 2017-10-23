@@ -62,23 +62,7 @@
 				<div class="collapse navbar-collapse" id="me-navbar">
 					<ul class="nav navbar-nav pull-right">
 						<li class="active dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="{{'index'}}">Home Default</a></li>
-												<li><a href="index-2.html">Business Home 2</a></li>
-												<li><a href="index-3.html">One Page Home</a></li>
-												<li><a href="index-4.html">Business Home 4</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
+							<a href="{{'home'}}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
 							<!-- / .dropdown-menu -->
 						</li>
 						<li class="dropdown">
