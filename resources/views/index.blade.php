@@ -9,7 +9,7 @@
         <div class="container">
           <div id="Container" class="clearfix">
             <div class="mix  clearfix col-lg-8 col-md-7 col-sm-12 col-xs-12 home service-box">
-              <div class="full-height-wrapper"> <a href="portfolio.html" title="">
+              <div class="full-height-wrapper"> <a href="{{ route('portfolio') }}" title="">
                 <figure class="images background-image10"></figure>
                 <div class="info-box-content">
                   <div class="parent">
