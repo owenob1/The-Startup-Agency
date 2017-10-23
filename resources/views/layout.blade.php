@@ -226,7 +226,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="row">
-          <p class="col-sm-6">&copy; Startup Agency  | {{ Carbon\Carbon::parse($quotes->created_at)->format('d-m-Y i') }}</p>
+          <p class="col-sm-6">&copy; Startup Agency  | <?php echo date("Y"); ?></p>
           <div class="col-sm-6 text-right">
             <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
           </div>
