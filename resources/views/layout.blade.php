@@ -37,11 +37,11 @@
     <li> <a href="{{ route('agency') }}" class="{{ (Route::currentRouteNamed('agency')) ? 'selected' : '' }}">Agency</a> </li>
     <li> <a href="{{ route('blog') }}" class="{{ (Route::currentRouteNamed('blog')) ? 'selected' : '' }}">Blog</a> </li>
     <li> <a href="#" class="sub-nav-toggle">Features</a>
-      <ul class="sub-nav hidden">
-        <li> <a href="work.html">Project</a> </li>
-        <li> <a href="slider.html">Slider</a> </li>
-        <li> <a href="post.html">Post</a> </li>
-        <li> <a href="404.html">404</a> </li>
+      <ul class="sub-nav">
+        <li> <a href="{{ route('work') }}">Project</a> </li>
+        <li> <a href="{{ route('slider') }}">Slider</a> </li>
+        <li> <a href="{{ route('post') }}">Post</a> </li>
+        <li> <a href="{{ route('404') }}">404</a> </li>
       </ul>
     </li>
     <li> <a href="{{ route('contact') }}" class="{{ (Route::currentRouteNamed('contact')) ? 'selected' : '' }}">Contact</a> </li>
@@ -57,7 +57,7 @@
 <div id="wrap">
   <header id="header">
     <div class="logo-wrapper">
-      <h1 id="logo"><a href="index.html">Three</a></h1>
+      <h1 id="logo"><a href="{{ route('home') }}">Three</a></h1>
       <div class="tagline"><span>The <br / />Startup <br />
         Agency</span></div>
     </div>
