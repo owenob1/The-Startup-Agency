@@ -73,9 +73,9 @@
   					<div class="row">
 
   						<header class="section-title text-center">
-  							<h6 class="small-title">Welcome to The Startup Agency!</h6>
+  							<h6 class="small-title">Welcome to Startup Agency!</h6>
   							<h1 class="main-title">Start The Right Way.</h1>
-  							<p class="sub-title">We are young team of highly experienced developers!</p>
+  							<p class="sub-title">We are a team of highly experienced entrepreneurs!</p>
   						</header>
   						<!-- /.section-title -->
 
@@ -129,10 +129,9 @@
   							<!-- /.section-title -->
   							<p>We are young team of highly experienced entrepreneurs! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                               <ul class="ul-style-3">
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Proven Record</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 2</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 3</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 4</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Learn</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Build</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Measure</li>
   							</ul>
   							<!-- /.ul-style-3 -->
   						</div>

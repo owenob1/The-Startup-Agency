@@ -243,7 +243,7 @@
 
 <!-- ========== LOADER ========== -->
   <div class="page-loader">
-      <div class="spinner-2"></div>
+      <div class="spinner"></div>
   </div>
 
 <!-- ========== COMMON JS FILES ========== -->
