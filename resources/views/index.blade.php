@@ -83,7 +83,7 @@
   							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-chatboxes"></i>
   								<h4>Free Consultation</h4>
-  								<p>Meet with one of our consultants who will be able to help guide you in the right direction.</p>
+  								<p>Meet with a consultant who will be able to help guide you in the right direction.</p>
   							</div></a>
   							<!-- /.feature-box -->
   						</div>
