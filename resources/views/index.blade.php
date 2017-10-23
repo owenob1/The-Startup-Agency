@@ -27,7 +27,7 @@
                 </a> </div>
             </div>
             <div class="mix  clearfix col-lg-4 col-md-5 col-sm-6 col-xs-12 home service-box">
-              <div class="full-height-wrapper"> <a href="services.html" title="">
+              <div class="full-height-wrapper"> <a href="{{ route('services') }}" title="">
                 <figure class="images background-image2"></figure>
                 <div class="info-box-content">
                   <div class="parent">
@@ -40,7 +40,7 @@
                 </a> </div>
             </div>
             <div class="mix  clearfix col-lg-4 col-md-5 col-sm-6 col-xs-12 home service-box">
-              <div class="full-height-wrapper"> <a href="agency.html" title="">
+              <div class="full-height-wrapper"> <a href="{{ route('agency') }}" title="">
                 <figure class="images background-image3"></figure>
                 <div class="info-box-content">
                   <div class="parent">
