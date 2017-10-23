@@ -80,31 +80,31 @@
   						<!-- /.section-title -->
 
   						<div class="col-md-4">
-  							<div class="feature-box-3 text-center">
+  							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-chatboxes"></i>
   								<h4>Free Consultation</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							</div>
+  							</div></a>
   							<!-- /.feature-box -->
   						</div>
   						<!-- /.col-md-4 -->
 
   						<div class="col-md-4">
-  							<div class="feature-box-3 text-center">
+  							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-cube"></i>
-  								<h4>Entrepreneurship Training</h4>
+  								<h4>Professional Training</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							</div>
+  							</div></a>
   							<!-- /.feature-box -->
   						</div>
   						<!-- /.col-md-4 -->
 
   						<div class="col-md-4">
-  							<div class="feature-box-3 text-center">
+  							<a href="#"><div class="feature-box-3 text-center">
   								<i class="icon ion-ios-pie"></i>
   								<h4>Start Your Business</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							</div>
+  							</div></a>
   							<!-- /.feature-box -->
   						</div>
   						<!-- /.col-md-4 -->
