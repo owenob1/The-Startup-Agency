@@ -17,9 +17,8 @@
             <div class="info-box-content">
               <div class="parent">
                 <div class="child">
-                  <h2>Suite 12A, Park Ave<br />
-                    New York</h2>
-                  <h2>(845) - <span class="phone-number">1</span><span class="phone-number">2</span><span class="phone-number">3</span> 4567</h2>
+                  <h2>Level 5, 1 Moore Street<br />
+                    Canberra</h2>
                 </div>
               </div>
             </div>
@@ -29,13 +28,13 @@
         <div class="clearfix col-md-5 col-md-push-7 col-sm-6 col-sm-push-6 bg-white">
           <div class="header-section">
             <p class="small">Contact Form</p>
-            <h2 class="header">Say Hi!</h2>
+            <h2 class="header">Say Hello!</h2>
           </div>
-          <p> It's Greek to you. Unless, of course, you're Greek, in which case, it really makes no sense. Why, you can't even read it! It is strictly for mock-ups. You may mock it up as strictly as you wish.</p>
+          <p> Use the following form to get in touch with us. We usually reply within 48 hours.</p>
           <form class="form-part" method="post" action="contact.php" name="contactform" id="contactform" autocomplete="off">
             <input name="name" type="text" id="name" size="30" title="Name" />
             <input name="email" type="text" id="email" size="30" title="Email" />
-            <textarea name="comments" cols="40" rows="3" id="comments" title="Tell us what you think!"></textarea>
+            <textarea name="comments" cols="40" rows="3" id="comments" title="Write your message!"></textarea>
             <div class="input-wrapper clearfix"> <span id="message"></span>
               <div class="clear"></div>
               <input type="submit" class="send-btn" value="Submit" id="submit" name="Submit" />
