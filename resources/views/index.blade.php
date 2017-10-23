@@ -33,17 +33,17 @@
   							<!-- LAYER NR. 3 -->
   							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-11" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
   											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power4.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="1500" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="4000" style="z-index: 7; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">WEB DESIGN </div>
+  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="4000" style="z-index: 7; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">STARTUPS </div>
 
   							<!-- LAYER NR. 4 -->
   							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-13" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
   											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power3.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="4510" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="7010" style="z-index: 8; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">PHOTOGRAPHY </div>
+  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="7010" style="z-index: 8; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">ENTREPRENEURS </div>
 
   							<!-- LAYER NR. 5 -->
   							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-14" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
   											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power3.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="7490" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="9990" style="z-index: 9; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">ROCK MUSIC </div>
+  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="9990" style="z-index: 9; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">INNOVATION </div>
 
   							<!-- LAYER NR. 6 -->
   							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-15" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
