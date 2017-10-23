@@ -205,8 +205,8 @@
                               <div class="col-md-3">
   								<div class="counter-box-2">
   									<span class="icon ion-help-buoy"></span>
-  									<span class="counter">2000</span>
-  									<p>Websites Designed</p>
+  									<span class="counter">15</span>
+  									<p>Startups</p>
   								</div>
   								<!-- /.counter-box -->
   							</div>
@@ -215,8 +215,8 @@
   							<div class="col-md-3">
   								<div class="counter-box-2">
   									<span class="icon ion-ios-paper"></span>
-  									<span class="counter">70000</span>
-  									<p>Line of Code</p>
+  									<span class="counter">5000</span>
+  									<p>Dollars Saved</p>
   								</div>
   								<!-- /.counter-box -->
   							</div>
@@ -225,8 +225,8 @@
   							<div class="col-md-3">
   								<div class="counter-box-2">
   									<span class="icon ion-clipboard"></span>
-  									<span class="counter">700</span>
-  									<p>Files Committed</p>
+  									<span class="counter">3</span>
+  									<p>Partner Agencies</p>
   								</div>
   								<!-- /.counter-box -->
   							</div>
