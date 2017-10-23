@@ -201,9 +201,9 @@
 
         <div class="col-md-4 col-sm-6">
           <h6>Contact Us</h6>
-          <p><i class="ion-ios-location"></i> A902, Brighton, East Sussex, England.</p>
-          <p><i class="ion-email"></i> support@themesease.com</p>
-          <p><i class="ion-ios-telephone"></i> +1 (123) 456-7890</p>
+          <p><i class="ion-ios-location"></i> Level 5, 1 Moore St, Canberra.</p>
+          <p><i class="ion-email"></i> hello@startupagency.com.au</p>
+          <p><i class="ion-ios-telephone"></i> 0412 224 668</p>
         </div>
         <!-- /.col-md-4 col-sm-6 -->
 
@@ -216,7 +216,6 @@
           <a href="#" class="social-link"><i class="ion-social-googleplus"></i></a>
           <a href="#" class="social-link"><i class="ion-social-dribbble"></i></a>
           <a href="#" class="social-link"><i class="ion-social-tumblr"></i></a>
-          <a href="https://themeforest.net/cart/configure_before_adding/18016228?license=regular&ref=salttechno&size=source&support=bundle_12month" class="btn st-btn btn-rounded small-btn mt10">Purchase Now</a>
         </div>
         <!-- /.col-md-4 col-sm-6 -->
       </div>
@@ -227,7 +226,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="row">
-          <p class="col-sm-6">&copy; Salt Technologies  | 2016</p>
+          <p class="col-sm-6">&copy; Startup Agency  | {{ Carbon\Carbon::parse($quotes->created_at)->format('d-m-Y i') }}</p>
           <div class="col-sm-6 text-right">
             <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
           </div>
