@@ -10,33 +10,33 @@
   <title>Engage Html Template</title>
   <meta name="description" content="Create your website using Engage multipurposes html template: corporate, ecommerce, blog, creative and much more. Only $17 for unlimited possibilities.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="apple-touch-icon" href="assets/img/various/apple-touch-icon.png">
-  <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" href="../assets/img/various/apple-touch-icon.png">
+  <link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon">
   <link href='https://fonts.googleapis.com/css?family=Satisfy%7CMontserrat:400,700%7COpen+Sans:300,400,700,800' rel='stylesheet' />
-  <link rel="stylesheet" href="assets/js/libs/font-awesome/css/font-awesome.min.css"/>
-  <link rel="stylesheet" href="assets/js/libs/bootstrap/dist/css/bootstrap.min.css"/>
-  <link rel="stylesheet" href="assets/css/icons/nucleo.css"/>
-  <link rel="stylesheet" href="assets/js/libs/animate.css/animate.min.css"/>
+  <link rel="stylesheet" href="../assets/js/libs/font-awesome/css/font-awesome.min.css"/>
+  <link rel="stylesheet" href="../assets/js/libs/bootstrap/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="../assets/css/icons/nucleo.css"/>
+  <link rel="stylesheet" href="../assets/js/libs/animate.css/animate.min.css"/>
   <!-- BEGIN PAGE STYLE -->
-  <link rel="stylesheet" href="assets/js/plugins/revolution-slider/revolution/css/settings.css"/>
-  <link rel="stylesheet" href="assets/js/plugins/revolution-slider/revolution/css/navigation.css"/>
-  <link rel="stylesheet" href="assets/css/sliders.css"/>
+  <link rel="stylesheet" href="../assets/js/plugins/revolution-slider/revolution/css/settings.css"/>
+  <link rel="stylesheet" href="../assets/js/plugins/revolution-slider/revolution/css/navigation.css"/>
+  <link rel="stylesheet" href="../assets/css/sliders.css"/>
   <!-- END PAGE STYLE -->
-  <link rel="stylesheet" href="assets/css/buttons.css"/>
-  <link rel="stylesheet" href="assets/css/builder.css"/>
-  <link rel="stylesheet" href="assets/css/colors.css"/>
-  <link rel="stylesheet" href="assets/css/footers.css"/>
-  <link rel="stylesheet" href="assets/css/main.css"/>
-  <link rel="stylesheet" href="assets/css/nav.css"/>
-  <link rel="stylesheet" href="assets/css/preloader.css"/>
-  <link rel="stylesheet" href="assets/css/themes.css"/>
-  <link rel="stylesheet" href="assets/css/ui.css"/>
-  <link rel="stylesheet" href="assets/css/widgets.css"/>
-  <script src="assets/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-	<script type="text/javascript" src="assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script type="text/javascript" src="assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script type="text/javascript" src="assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-<script type="text/javascript" src="assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+  <link rel="stylesheet" href="../assets/css/buttons.css"/>
+  <link rel="stylesheet" href="../assets/css/builder.css"/>
+  <link rel="stylesheet" href="../assets/css/colors.css"/>
+  <link rel="stylesheet" href="../assets/css/footers.css"/>
+  <link rel="stylesheet" href="../assets/css/main.css"/>
+  <link rel="stylesheet" href="../assets/css/nav.css"/>
+  <link rel="stylesheet" href="../assets/css/preloader.css"/>
+  <link rel="stylesheet" href="../assets/css/themes.css"/>
+  <link rel="stylesheet" href="../assets/css/ui.css"/>
+  <link rel="stylesheet" href="../assets/css/widgets.css"/>
+  <script src="../assets/js/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<script type="text/javascript" src="../assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="../assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="../assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="../assets/js/plugins/revolution-slider/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
 </head>
 
 
