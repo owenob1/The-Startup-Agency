@@ -73,8 +73,8 @@
   					<div class="row">
 
   						<header class="section-title text-center">
-  							<h6 class="small-title">Welcome to Options!</h6>
-  							<h1 class="main-title">Website Designers.</h1>
+  							<h6 class="small-title">Welcome to The Startup Agency!</h6>
+  							<h1 class="main-title">Start The Right Way.</h1>
   							<p class="sub-title">We are young team of highly experienced developers!</p>
   						</header>
   						<!-- /.section-title -->
@@ -82,7 +82,7 @@
   						<div class="col-md-4">
   							<div class="feature-box-3 text-center">
   								<i class="icon ion-chatboxes"></i>
-  								<h4>Fully Responsive</h4>
+  								<h4>Free Consultation</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   							</div>
   							<!-- /.feature-box -->
@@ -92,7 +92,7 @@
   						<div class="col-md-4">
   							<div class="feature-box-3 text-center">
   								<i class="icon ion-cube"></i>
-  								<h4>Modern Design</h4>
+  								<h4>Entrepreneurship Training</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   							</div>
   							<!-- /.feature-box -->
@@ -102,7 +102,7 @@
   						<div class="col-md-4">
   							<div class="feature-box-3 text-center">
   								<i class="icon ion-ios-pie"></i>
-  								<h4>SEO Friendly</h4>
+  								<h4>Start Your Business</h4>
   								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   							</div>
   							<!-- /.feature-box -->
@@ -127,12 +127,12 @@
   								<h1 class="main-title">About Us.</h1>
   							</header>
   							<!-- /.section-title -->
-  							<p>We are young team of highly experienced developers! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  							<p>We are young team of highly experienced entrepreneurs! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                               <ul class="ul-style-3">
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Built on Bootstrap</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Sass & CSS both</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Minified js & css provided</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Built using gulp</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Proven Record</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 2</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 3</li>
+  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Item 4</li>
   							</ul>
   							<!-- /.ul-style-3 -->
   						</div>
@@ -165,28 +165,28 @@
   					<div class="row steps">
   						<div class="col-md-3">
                               <img src="images/demo-img-1.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">1. Wireframe Design</h4>
+  							<h4 class="mt10">1. Initial Consultation</h4>
   							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-2.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">2. Web Design</h4>
+  							<h4 class="mt10">2. Customer Validation</h4>
   							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-3.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">3. Web Development</h4>
+  							<h4 class="mt10">3. Minimum Viable Product</h4>
   							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   						</div>
   						<!-- /.col-md-3 -->
 
   						<div class="col-md-3">
                               <img src="images/demo-img-4.jpg" alt="" class="img-responsive st-img">
-  							<h4 class="mt10">4. Implementation</h4>
+  							<h4 class="mt10">4. Growth</h4>
   							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   						</div>
   						<!-- /.col-md-3 -->
