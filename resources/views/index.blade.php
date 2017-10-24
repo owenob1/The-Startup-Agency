@@ -120,48 +120,16 @@
         <section class="parallax-section" data-parallax="scroll" data-image-src="images/demo-img-3.jpg" data-speed="0.5">
           <section class="content-section primary-grad">
             <div class="container">
-              <div class="row text-center">
-                              <div class="col-md-3">
-                  <div class="counter-box-2">
-                    <span class="icon ion-help-buoy"></span>
-                    <span class="counter">15</span>
-                    <p>Startups</p>
-                  </div>
-                  <!-- /.counter-box -->
-                </div>
-                <!-- /.col-md-3 -->
+              <div class="row">
+    						<header class="section-title text-center">
+    							<h6 class="small-title">Did we mention?</h6>
+    							<h1 class="main-title">You can start for free.</h1>
+    							<a href="#" target="_blank" class="btn st-btn btn-rounded btn-primary">Free Consultation</a>
+    						</header>
+    						<!-- /.section-title -->
 
-                <div class="col-md-3">
-                  <div class="counter-box-2">
-                    <span class="icon ion-ios-paper"></span>
-                    <span class="counter">5000</span>
-                    <p>Dollars Saved</p>
-                  </div>
-                  <!-- /.counter-box -->
-                </div>
-                <!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                  <div class="counter-box-2">
-                    <span class="icon ion-clipboard"></span>
-                    <span class="counter">3</span>
-                    <p>Partner Agencies</p>
-                  </div>
-                  <!-- /.counter-box -->
-                </div>
-                <!-- /.col-md-3 -->
-
-                <div class="col-md-3">
-                  <div class="counter-box-2">
-                    <span class="icon ion-happy"></span>
-                    <span class="counter">1760</span>
-                    <p>Smiling Customers</p>
-                  </div>
-                  <!-- /.counter-box -->
-                </div>
-                <!-- /.col-md-3 -->
-              </div>
-              <!-- /.row -->
+    					</div>
+    					<!-- /.row -->
             </div>
             <!-- /.container -->
           </section>
@@ -522,57 +490,6 @@
   			</section>
   			<!-- /.content-section -->
 
-  			<!-- ========== BLOGS GRID ========== -->
-  			<div class="container-fluid">
-  				<div class="row blogs-grid">
-  					<div class="col-md-3 col-sm-6 latest-post">
-  						<img src="images/demo-img-1.jpg" alt="" class="img-responsive">
-  						<div class="blog-info">
-  							<h6><a href="#">Why should you buy 'Options'?</a></h6>
-  							<p class="blog-meta">2 days ago | admin | 2 comments</p>
-  							<p class="blog-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							<a href="#" class="pull-right">read more &rarr;</a>
-  						</div>
-  						<!-- /.blog-info -->
-  					</div>
-  					<!-- /.col-md-3 col-sm-6 -->
-  					<div class="col-md-3 col-sm-6 latest-post">
-  						<img src="images/demo-img-2.jpg" alt="" class="img-responsive">
-  						<div class="blog-info">
-  							<h6><a href="#">We love ThemeForest!</a></h6>
-  							<p class="blog-meta">6 days ago | Sujay | 8 comments</p>
-  							<p class="blog-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							<a href="#" class="pull-right">read more &rarr;</a>
-  						</div>
-  						<!-- /.blog-info -->
-  					</div>
-  					<!-- /.col-md-3 col-sm-6 -->
-  					<div class="col-md-3 col-sm-6 latest-post">
-  						<img src="images/demo-img-3.jpg" alt="" class="img-responsive">
-  						<div class="blog-info">
-  							<h6><a href="#">'Options' creates endless possibilities.</a></h6>
-  							<p class="blog-meta">22 May, 16 | Shashwati | 20 comments</p>
-  							<p class="blog-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							<a href="#" class="pull-right">read more &rarr;</a>
-  						</div>
-  						<!-- /.blog-info -->
-  					</div>
-  					<!-- /.col-md-3 col-sm-6 -->
-  					<div class="col-md-3 col-sm-6 latest-post">
-  						<img src="images/demo-img-4.jpg" alt="" class="img-responsive">
-  						<div class="blog-info">
-  							<h6><a href="#">You need an awesome website.</a></h6>
-  							<p class="blog-meta">18 May, 16 | Hardika | 22 comments</p>
-  							<p class="blog-excerpt">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-  							<a href="#" class="pull-right">read more &rarr;</a>
-  						</div>
-  						<!-- /.blog-info -->
-  					</div>
-  					<!-- /.col-md-3 col-sm-6 -->
-  				</div>
-  				<!-- /.row -->
-  			</div>
-  			<!-- /.container-fluid -->
 
   		</div>
   		<!-- /.main -->
