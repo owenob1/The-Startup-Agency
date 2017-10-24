@@ -124,6 +124,7 @@
     						<header class="section-title text-center">
     							<h6 class="small-title">Did we mention?</h6>
     							<h1 class="main-title">You can start for free.</h1>
+                  <br />
     							<a href="#" target="_blank" class="btn st-btn btn-rounded btn-primary">Free Consultation</a>
     						</header>
     						<!-- /.section-title -->
@@ -136,39 +137,6 @@
           <!-- /.primary-grad -->
         </section>
         <!-- /.parallax-section -->
-
-  			<!-- ========== BLACK SECTION ========== -->
-  			<section class="content-section gray-section">
-  				<div class="container">
-  					<div class="row">
-
-  						<div class="col-md-6">
-  							<header class="section-title mb20">
-  								<h6 class="small-title">Who we are?</h6>
-  								<h1 class="main-title">About Us.</h1>
-  							</header>
-  							<!-- /.section-title -->
-  							<p>As entrepreneurs, we all understand how difficult it is to start something new without the right support networks. Startup Agency has been built with this in mind, connecting new entrepreneurs to existing startups who want to give back.</p>
-                              <ul class="ul-style-3">
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Learn</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Build</li>
-  								<li class="col-md-6"><i class="icon ion-checkmark"></i> Measure</li>
-  							</ul>
-  							<!-- /.ul-style-3 -->
-  						</div>
-  						<!-- /.col-md-6 -->
-
-  						<div class="col-md-6">
-  							<img src="images/demo-img-3.jpg" alt="" class="img-responsive">
-  						</div>
-  						<!-- /.col-md-6 -->
-
-  					</div>
-  					<!-- /.row -->
-  				</div>
-  				<!-- /.container -->
-  			</section>
-  			<!-- /.content-section black-section-->
 
   			<!-- ========== STEPS SECTION ========== -->
   			<section class="content-section">
@@ -217,6 +185,39 @@
   			</section>
   			<!-- /.content-section -->
 
+        <!-- ========== CLIENTS CAROUSEL ========== -->
+        <section class="content-section gray-section">
+            <div class="container">
+                <div class="row">
+                    <div class="owl-carousel client-carousel">
+                        <div class="text-center">
+                            <img src="images/clients/swimmers-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/james-some-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/sea-face-resort-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/grandde-inn-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/handsome-salman-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/front-lead-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/badde-cakes-1.png" alt="Client 1" />
+                        </div>
+                    </div>
+                    <!-- /.owl-carousel -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </section>
 
 
   			<!-- ========== SERVICES SECTION ========== -->
@@ -435,41 +436,6 @@
 
   			<!-- ========== PRICING TABLE SECTION ========== -->
 
-
-
-              <!-- ========== CLIENTS CAROUSEL ========== -->
-              <section class="content-section gray-section">
-                  <div class="container">
-                      <div class="row">
-                          <div class="owl-carousel client-carousel">
-                              <div class="text-center">
-                                  <img src="images/clients/swimmers-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/james-some-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/sea-face-resort-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/grandde-inn-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/handsome-salman-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/front-lead-1.png" alt="Client 1" />
-                              </div>
-                              <div class="text-center">
-                                  <img src="images/clients/badde-cakes-1.png" alt="Client 1" />
-                              </div>
-                          </div>
-                          <!-- /.owl-carousel -->
-                      </div>
-                      <!-- /.row -->
-                  </div>
-                  <!-- /.container -->
-              </section>
 
   			<!-- ========== PLAIN CTA ========== -->
   			<section class="content-section">
