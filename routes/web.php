@@ -16,22 +16,6 @@ Route::get('/', function () {
 })->name('home');
 
 
-Route::get('portfolio', function () {
-    return view('portfolio');
-})->name('portfolio');
-
-Route::get('services', function () {
-    return view('services');
-})->name('services');
-
-Route::get('agency', function () {
-    return view('agency');
-})->name('agency');
-
-Route::get('blog', function () {
-    return view('blog');
-})->name('blog');
-
-Route::get('contact', function () {
-    return view('contact');
-})->name('contact');
+Route::get('consultation', function () {
+    return view('consultation');
+})->name('consultation');

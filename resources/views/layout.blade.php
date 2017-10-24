@@ -62,7 +62,7 @@
 				<div class="collapse navbar-collapse" id="me-navbar">
 					<ul class="nav navbar-nav pull-right">
 						<li class="active dropdown">
-							<a href="{{'home'}}" class="active dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Home </a>
+							<a href="{{'index'}}" class="active dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Home </a>
 							<!-- / .dropdown-menu -->
 						</li>
 						<li class="dropdown">
