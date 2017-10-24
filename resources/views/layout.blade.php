@@ -72,7 +72,7 @@
 
 							</ul>
 						<li class="dropdown dd-left">
-							<a href="{{ 'contact' }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact Us </span></a>
+							<a href="{{ 'contact' }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact Us </a>
 						</li>
 						<!-- / .dropdown.dd-left (pages) -->
 					</ul>
