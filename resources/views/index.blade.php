@@ -6,66 +6,62 @@
 
   		<div class="main">
 
-  			<div id="rev_slider_21_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="rotating-words1" style="background-color:#e5e5e5;padding:0px;">
-  				<!-- START REVOLUTION SLIDER 5.2.6 fullscreen mode -->
-  				<div id="rev_slider_21_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.2.6">
-  					<ul>
-  						<!-- SLIDE  -->
-  						<li data-index="rs-69" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500" data-thumb="images/slider/100x50_office_cover.jpg"
-  										data-rotate="0" data-saveperformance="off" data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-  							<!-- MAIN IMAGE -->
-  							<img src="images/slider/office_cover.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg" data-no-retina>
-  							<!-- LAYERS -->
+        <!-- ========== SLIDER ========== -->
+        <div id="rev_slider_22_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="Slider2" style="background-color:transparent;padding:0px;">
+          <!-- START REVOLUTION SLIDER 5.2.5.1 fullscreen mode -->
+          <div id="rev_slider_22_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.2.5.1">
+            <ul>
+              <!-- SLIDE  -->
+              <li data-index="rs-73" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000" data-thumb="images/slider/100x50_iceberg.jpg"
+                      data-rotate="0" data-saveperformance="off" data-title="Iceberg" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="images/slider/iceberg.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <!-- LAYERS -->
 
-  							<!-- BACKGROUND VIDEO LAYER -->
-  							<div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="images/slider/Working-Space.mp4" data-videopreload="auto" data-videoloop="loopandnoslidestop" data-forceCover="1" data-aspectratio="16:9"
-  											data-autoplay="true" data-autoplayonlyfirsttime="false"></div>
-  							<!-- LAYER NR. 1 -->
-  							<div class="tp-caption tp-shape tp-shapewrapper  " id="slide-69-layer-10" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full"
-  											data-height="full" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="s:300;" data-start="0" data-basealign="slide" data-responsive_offset="on" data-responsive="off" style="z-index: 5;text-transform:left;background-color:rgba(41, 46, 49, 0.25);border-color:rgba(0, 0, 0, 0.50);">
-  							</div>
+                <!-- BACKGROUND VIDEO LAYER -->
+                <div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="images/slider/iceberg.mp4" data-videopreload="auto" data-videoloop="loopandnoslidestop" data-forceCover="1" data-aspectratio="16:9"
+                        data-autoplay="true" data-autoplayonlyfirsttime="false"></div>
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption tp-shape tp-shapewrapper  " id="slide-73-layer-10" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full"
+                        data-height="full" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:1000;e:Power2.easeInOut;" data-start="2000" data-basealign="slide" data-responsive_offset="on"
+                        data-responsive="off" style="z-index: 5;text-transform:left;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 0);"> </div>
 
-  							<!-- LAYER NR. 2 -->
-  							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  toblur" id="slide-69-layer-1" data-x="['right','right','center','center']" data-hoffset="['690','580','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-102','-102']"
-  											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="s:300;" data-start="750" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-  											style="z-index: 6; white-space: nowrap;text-transform:left;">WE LOVE </div>
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption NotGeneric-Title   tp-resizeme" id="slide-73-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-fontsize="['70','70','70','45']"
+                        data-lineheight="['70','70','70','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="chars" data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05" style="z-index: 6; white-space: nowrap;text-transform:left;">Stay Cool Mate </div>
 
-  							<!-- LAYER NR. 3 -->
-  							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-11" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
-  											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power4.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="1500" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="4000" style="z-index: 7; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">STARTUPS </div>
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption NotGeneric-SubTitle   tp-resizeme" id="slide-73-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['52','52','52','51']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;text-transform:left;">REVOLUTION SLIDER TEMPLATE </div>
 
-  							<!-- LAYER NR. 4 -->
-  							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-13" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
-  											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power3.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="4510" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="7010" style="z-index: 8; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">ENTREPRENEURS </div>
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption NotGeneric-Icon   tp-resizeme" id="slide-73-layer-8" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 8; white-space: nowrap;text-transform:left;cursor:default;"><i class="pe-7s-anchor"></i> </div>
 
-  							<!-- LAYER NR. 5 -->
-  							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-14" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
-  											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power3.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="7490" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" data-end="9990" style="z-index: 9; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">INNOVATION </div>
+                <!-- LAYER NR. 5 -->
+                <div class="tp-caption btn st-btn btn-rounded " id="slide-73-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['124','124','124','123']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;"
+                        data-transform_out="y:[175%];s:1000;e:Power2.easeInOut;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="2000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
+                        data-responsive_offset="on" data-responsive="off" style="z-index: 9; white-space: nowrap;text-transform:left;">Get Started </div>
 
-  							<!-- LAYER NR. 6 -->
-  							<div class="tp-caption RotatingWords-TitleWhite   tp-resizeme  tounblur" id="slide-69-layer-15" data-x="['left','left','center','center']" data-hoffset="['570','460','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','-42','-42']"
-  											data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="sX:0.8;sY:0.8;opacity:0;s:500;e:Power3.easeOut;" data-transform_out="sX:0.9;sY:0.9;opacity:0;s:500;e:Power3.easeIn;" data-start="10490" data-splitin="chars"
-  											data-splitout="chars" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.03" style="z-index: 10; white-space: nowrap; color: rgba(255, 217, 53, 1.00);text-transform:left;">OUR CLIENTS </div>
+                <!-- LAYER NR. 6 -->
+                <div class="tp-caption rev-scroll-btn " id="slide-73-layer-9" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['50','50','50','50']" data-width="35" data-height="55"
+                        data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:50px;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:50px;opacity:0;s:1000;" data-start="2000" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"scrollbelow","offset":"0px","delay":""}]'
+                        data-basealign="slide" data-responsive_offset="off" data-responsive="off" style="z-index: 10; min-width: 35px; max-width: 35px; max-width: 55px; max-width: 55px; white-space: nowrap; font-size: px; line-height: px; font-weight: 100;text-transform:left;border-color:rgba(255, 255, 255, 0.50);border-style:solid;border-width:1px;border-radius:23px 23px 23px 23px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                  <span>
+                      </span>
+                </div>
+              </li>
 
-  							<!-- LAYER NR. 7 -->
-  							<div class="tp-caption btn st-btn" id="slide-69-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['127','97','90','90']" data-width="none"
-  											data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;"
-  											data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"scrollbelow","offset":"0px","delay":""}]' data-responsive_offset="on" data-responsive="off"
-  											style="z-index: 11; white-space: nowrap;text-transform:left;outline:none;">HOOK ME UP </div>
+            </ul>
 
-  							<!-- LAYER NR. 8 -->
-  							<div class="tp-caption RotatingWords-SmallText   tp-resizeme" id="slide-69-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['20','20','20','20']" data-width="none"
-  											data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2500" data-splitin="none" data-splitout="none"
-  											data-basealign="slide" data-responsive_offset="off" style="z-index: 12; white-space: nowrap; font-weight: 700; color: rgba(255, 255, 255, 0.35);text-transform:left;">A universally usable Hero Header with a surprising scroll effect <i class="pe-7s-mouse" style="font-size:20px;"></i> </div>
-  						</li>
-  					</ul>
-  					<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-  				</div>
-  			</div>
-  			<!-- END REVOLUTION SLIDER -->
+            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+          </div>
+        </div>
+        <!-- END REVOLUTION SLIDER -->
 
   			<!-- ========== INTRO SECTION ========== -->
   			<section class="content-section">
