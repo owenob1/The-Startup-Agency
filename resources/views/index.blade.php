@@ -185,191 +185,7 @@
   			</section>
   			<!-- /.content-section -->
 
-        <!-- ========== CLIENTS CAROUSEL ========== -->
-        <section class="content-section gray-section">
-            <div class="container">
-                <div class="row">
-                    <div class="owl-carousel client-carousel">
-                        <div class="text-center">
-                            <img src="images/clients/swimmers-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/james-some-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/sea-face-resort-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/grandde-inn-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/handsome-salman-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/front-lead-1.png" alt="Client 1" />
-                        </div>
-                        <div class="text-center">
-                            <img src="images/clients/badde-cakes-1.png" alt="Client 1" />
-                        </div>
-                    </div>
-                    <!-- /.owl-carousel -->
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- /.container -->
-        </section>
 
-
-  			<!-- ========== SERVICES SECTION ========== -->
-  			<section class="content-section">
-  				<div class="container-fluid">
-  					<div class="row">
-  						<header class="section-title text-center">
-  							<h6 class="small-title">What we do?</h6>
-  							<h1 class="main-title">Our Services.</h1>
-  							<p class="sub-title">We are one stop solution for a stunning website.</p>
-  						</header>
-  						<!-- /.section-title -->
-  					</div>
-  					<!-- /.row -->
-
-  					<div class="row">
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-easel"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Professional Design</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-arrow-expand"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Fully Responsive</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-ios-heart"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Easy to use</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-film-marker"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Video Tutorials</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-  					</div>
-  					<!-- /.row -->
-
-                      <div class="row">
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-easel"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Professional Design</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-arrow-expand"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Fully Responsive</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-ios-heart"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Easy to use</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-
-  						<div class="col-md-3 col-sm-6">
-  							<div class="feature-box-4">
-  								<div class="box-left">
-  									<i class="icon ion-film-marker"></i>
-  								</div>
-  								<!-- /.box-left -->
-  								<div class="box-right">
-  									<h5>Video Tutorials</h5>
-  									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
-  								</div>
-  								<!-- /.box-right -->
-  							</div>
-  							<!-- /.feature-box-4 -->
-  						</div>
-  						<!-- /.col-md-6 col-sm-6 -->
-  					</div>
-  					<!-- /.row -->
-  				</div>
-  				<!-- /.container-fluid -->
-  			</section>
-  			<!-- /.content-section -->
 
   			<!-- ========== HALF IMAGE SECTION ========== -->
   			<section class="parallax-section" data-parallax="scroll" data-image-src="images/demo-img-3.jpg" data-speed="0.5">
@@ -434,27 +250,39 @@
   			</section>
   			<!-- /.parallax-section -->
 
-  			<!-- ========== PRICING TABLE SECTION ========== -->
-
-
-  			<!-- ========== PLAIN CTA ========== -->
-  			<section class="content-section">
-  				<div class="container">
-  					<div class="row">
-  						<header class="section-title text-center">
-  							<h6 class="small-title">Did we mention?</h6>
-  							<h1 class="main-title">You can start for free.</h1>
-  							<p class="sub-title">Check all our demos for free of any cost!</p>
-  							<a href="https://themeforest.net/cart/configure_before_adding/18016228?license=regular&ref=salttechno&size=source&support=bundle_12month" target="_blank" class="btn st-btn btn-rounded btn-primary">Purchase Now</a>
-  						</header>
-  						<!-- /.section-title -->
-
-  					</div>
-  					<!-- /.row -->
-  				</div>
-  				<!-- /.container -->
-  			</section>
-  			<!-- /.content-section -->
+        <!-- ========== CLIENTS CAROUSEL ========== -->
+        <section class="content-section gray-section">
+            <div class="container">
+                <div class="row">
+                    <div class="owl-carousel client-carousel">
+                        <div class="text-center">
+                            <img src="images/clients/swimmers-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/james-some-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/sea-face-resort-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/grandde-inn-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/handsome-salman-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/front-lead-1.png" alt="Client 1" />
+                        </div>
+                        <div class="text-center">
+                            <img src="images/clients/badde-cakes-1.png" alt="Client 1" />
+                        </div>
+                    </div>
+                    <!-- /.owl-carousel -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </section>
 
 
   		</div>
