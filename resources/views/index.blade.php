@@ -54,13 +54,9 @@
   							<div class="tp-caption btn st-btn" id="slide-69-layer-7" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['127','97','90','90']" data-width="none"
   											data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:100px;sX:1;sY:1;opacity:0;s:2000;e:Power3.easeInOut;"
   											data-transform_out="y:50px;opacity:0;s:1000;e:Power2.easeInOut;" data-start="750" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"scrollbelow","offset":"0px","delay":""}]' data-responsive_offset="on" data-responsive="off"
-  											style="z-index: 11; white-space: nowrap;text-transform:left;outline:none;">HOOK ME UP </div>
+  											style="z-index: 11; white-space: nowrap;text-transform:left;outline:none;">GET STARTED </div>
 
-  							<!-- LAYER NR. 8 -->
-  							<div class="tp-caption RotatingWords-SmallText   tp-resizeme" id="slide-69-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','bottom','bottom']" data-voffset="['20','20','20','20']" data-width="none"
-  											data-height="none" data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2500" data-splitin="none" data-splitout="none"
-  											data-basealign="slide" data-responsive_offset="off" style="z-index: 12; white-space: nowrap; font-weight: 700; color: rgba(255, 255, 255, 0.35);text-transform:left;">A universally usable Hero Header with a surprising scroll effect <i class="pe-7s-mouse" style="font-size:20px;"></i> </div>
-  						</li>
+  							</li>
   					</ul>
   					<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
   				</div>

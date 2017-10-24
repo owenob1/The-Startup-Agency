@@ -62,119 +62,17 @@
 				<div class="collapse navbar-collapse" id="me-navbar">
 					<ul class="nav navbar-nav pull-right">
 						<li class="active dropdown">
-							<a href="{{'index'}}" class="active dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Home </a>
+							<a href="{{ 'home' }}" class="active dropdown"  role="button" aria-haspopup="true" aria-expanded="false">Home </a>
 							<!-- / .dropdown-menu -->
 						</li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <b class="caret"></b></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="about-modern.html">About Modern</a></li>
-												<li><a href="about-classic.html">About Classic</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-										</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
-							<!-- / .dropdown-menu -->
+							<a href="{{ 'about' }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us </b></a>
 						</li>
 						<!-- / .dropdown (features) -->
-						<li class="dropdown dd-left">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <b class="caret"></b></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="services-modern.html">Services Modern</a></li>
-												<li><a href="services-grid.html">Services Grid</a></li>
-												<li><a href="services-detail.html">Single Service Details</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
+
 							</ul>
-							<!-- / .dropdown-menu -->
-						</li>
 						<li class="dropdown dd-left">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pricing <span class="caret"></span></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="pricing-modern.html">Pricing Modern</a></li>
-												<li><a href="pricing-classic.html">Pricing Classic</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
-						</li>
-						<li class="dropdown dd-left">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog <span class="caret"></span></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="blog-modern.html">Blog Home Modern</a></li>
-												<li><a href="blog-classic.html">Blog Home Classic</a></li>
-												<li><a href="blog-post.html">Blog Single Post</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
-						</li>
-						<li class="dropdown dd-left">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shortcodes <span class="caret"></span></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="shortcodes-accordions.html">Accordions</a></li>
-												<li><a href="shortcodes-blockquote.html">Blockquotes</a></li>
-												<li><a href="shortcodes-charts.html">Charts</a></li>
-												<li><a href="shortcodes-columns-grids.html">Column Grid</a></li>
-												<li><a href="shortcodes-tables.html">Tables</a></li>
-												<li><a href="shortcodes-tabs.html">Tabs</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
-						</li>
-						<li class="dropdown dd-left">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact Us <span class="caret"></span></a>
-							<ul class="dropdown-menu animated fadeIn">
-								<li>
-									<div class="me-menu-content">
-										<div class="nav-col">
-											<ul>
-												<li><a href="contact-modern.html">Contact - Modern</a></li>
-												<li><a href="contact-classic.html">Contact - Classic</a></li>
-											</ul>
-										</div>
-										<!-- / .nav-col -->
-									</div>
-									<!-- / .me-menu-content -->
-								</li>
-							</ul>
+							<a href="{{ 'contact' }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact Us </span></a>
 						</li>
 						<!-- / .dropdown.dd-left (pages) -->
 					</ul>
