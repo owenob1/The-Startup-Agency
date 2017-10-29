@@ -13,7 +13,7 @@
   	<title>DRAWER - Building</title>
 </head>
 <body class="coming-soon-promo-style-1">
-    
+
     <!-- LOADER -->
     <div id="loader-wrapper">
         <div id="loader-container">
@@ -26,8 +26,8 @@
           <div class="loader-titel">Loading...</div>
         </div>
     </div>
-    
-    
+
+
     <div id="content-wrapper">
         <div class="block coming-soon-style1" id="home">
 
@@ -50,19 +50,11 @@
                         </form>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="date margin-top-30">
-                            <div class="clock"></div>
-	                        <div class="message"></div>
-                        </div>
-                    </div>
-                </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 mob-block-left">
-                        <div class="wall_wrap margin-top-100"> 
+                        <div class="wall_wrap margin-top-100">
                             <img class="wall" src="img/wall.png" alt="" />
                             <span class="eye"></span>
                             <img class="man" src="img/man.png" alt=""/>
@@ -88,32 +80,28 @@
                             <span class="wheel third"></span>
                             <span class="wheel-small"></span>
                             <span class="wheel-small second"></span>
-                        </div> 
+                        </div>
                     </div>
                 </div>
             </div>
-            
-            
+
+
             <footer>
                 <div class="container margin-bottom-40">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="footer-linck">
-                                Contact us: <a href="tel:43475558974253"><span>+4 (347) 555 8974 253</span></a>
+                                Contact us: <a href="tel:0412224668"><span>0412 224 668</span></a>
                             </div>
                             <div class="footer-linck">
-                                Email: <a href="mailto:coming_soon@mail.com"><span>coming_soon@mail.com</span></a>
-                            </div> 
+                                Email: <a href="mailto:owen@startupagency.com"><span>owen@startupagency.om</span></a>
+                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="follow-us">
                                 <div class="titel">
                                     Follow Us
                                 </div>
-                                <a class="thumbs" href="#"><i class="fa fa-pinterest-p"></i></a>
-                                <a class="thumbs" href="#"><i class="fa fa-twitter"></i></a>
-                                <a class="thumbs" href="#"><i class="fa fa-instagram"></i></a>
-                                <a class="thumbs" href="#"><i class="fa fa-google-plus"></i></a>
                                 <a class="thumbs" href="#"><i class="fa fa-facebook"></i></a>
                             </div>
                         </div>
@@ -241,21 +229,17 @@
                         <div class="text-center">
                             <div class="contact-title">Contact Us Today</div>
                             <br/>
-                            <a class="contact-phone" href="tel:+01234567890"><span>+0 (123) 456 7890</span></a>
+                            <a class="contact-phone" href="tel:0412224668"><span>0412 224 668</span></a>
                             <br/>
-                            <a class="contact-mail" href="mailto:info@yourwebsite.com"><span>info@yourwebsite.com</span></a>
+                            <a class="contact-mail" href="mailto:owen@startupagency.com"><span>owen@startupagency.com</span></a>
                             <div class="contact-icons">
-                                <a href="#" style="background: #d44132;"><i class="fa fa-google-plus"></i></a>
                                 <a href="#" style="background: #4a66a0;"><i class="fa fa-facebook"></i></a>
-                                <a href="#" style="background: #6caddf;"><i class="fa fa-twitter"></i></a>
-                                <a href="#" style="background: #00b1f0;"><i class="fa fa-skype"></i></a>
-                                <a href="#" style="background: #cb2027;"><i class="fa fa-pinterest-p"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-7 col-md-offset-1">
                         <div class="contact-title text-left">Have a Question?</div>
-                        <form class="contact-form" method="post">
+                        <form class="contact-form" method="/send_mail.php">
                             <div class="fields-wrapper">
                                 <div class="simple-input">
                                     <label>Name*</label>
@@ -286,16 +270,6 @@
         </div>
     </div>
 
-    <div id="map">
-        <div id="map-canvas" data-lat="43.653226" data-lng="-107.383184" data-zoom="5" data-style="style-1">
-
-        </div>
-        <div class="addresses-block">
-            <a data-lat="43.653226" data-lng="-107.383184" data-string="1. Here is some address or email or phone or something else..."></a>
-            <a data-lat="57.653226" data-lng="-77.383184" data-string="2. Here is some address or email or phone or something else..."></a>
-        </div>
-    </div>
-
     <header>
         <nav>
             <a href="welcome.html"><i class="fa fa-bars"></i><span><span>All Demos</span></span></a>
@@ -322,7 +296,7 @@
             <h4>Your message was successfully sent.</h4>
             <p>Pellentesque dictum ut massa vitae rhoncus. Sed dapibus dolor eu semper dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec feugiat augue id augue euismod ullamcorper.</p>
         </div>
-    </div>  
+    </div>
 
     <div class="full-screen-popup" id="thank-you-subscribe">
         <div class="close-layer"></div>
@@ -332,18 +306,14 @@
             <h4>We will inform you about any updates, stay tuned!</h4>
             <p>Pellentesque dictum ut massa vitae rhoncus. Sed dapibus dolor eu semper dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec feugiat augue id augue euismod ullamcorper.</p>
         </div>
-    </div>   
+    </div>
 
     <script src="js/jquery-2.1.3.min.js"></script>
-    
-    <script src="js/flipclock.min.js"></script>
-    
+
     <script src="js/global.js"></script>
 
     <script src="js/anchors.navigation.js"></script>
-    
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;language=en"></script>
-    <script src="js/map.js"></script>
-    
+
+
 </body>
 </html>

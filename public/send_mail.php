@@ -1,11 +1,11 @@
 <?
-$mail_to = 'your.email.goes.here@mail.com';
+$mail_to = 'owen@startupagency.com';
 
 $name = strip_tags(trim($_POST['name']));
 $email = strip_tags(trim($_POST['email']));
 $subject = strip_tags(trim($_POST['subject']));
 if($subject!='') $mail_subject = $subject;
-else $mail_subject = 'Contact form submited';
+else $mail_subject = 'Contact form submitted';
 $text = strip_tags(trim($_POST['text']));
 
 $message = $mail_subject."\r\n\r\n";
