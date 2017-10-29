@@ -35,34 +35,33 @@
                 <source src="mp3/track.mp3" type="audio/mpeg">
             </audio>
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 margin-top-50">
-                        <article>
-                            <h1 class="h1">Coming soon</h1>
-                            <h2 class="h2">our website in under construction</h2>
-                        </article>
-                    </div>
-
-                </div>
-
-																		<div class="col-md-6 margin-top-50">
-
-								                    </div>
 
 
-
-
-								                </div>
-								                <div class="row">
-								                    <div class="col-md-6">
-								                        <div class="date margin-top-30">
-									                        <div><br /></div>
-								                        </div>
-								                    </div>
-								                </div>
-            </div>
-
+						<div class="container">
+								<div class="row">
+										<div class="col-md-6 margin-top-50">
+												<article>
+														<h1 class="h1">Coming soon</h1>
+														<h2 class="h2">our website in under construction</h2>
+												</article>
+										</div>
+										<div class="col-md-6 margin-top-50"style="z-index:10;">
+												<form  action="https://club.us16.list-manage.com/subscribe/post?u=7ac02a2df14d9e476a5fc267b&amp;id=5ca025d603" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+{{ csrf_field() }}
+														<input type="text" id="mce-EMAIL" name="email" placeholder="Enter your email" value=""/>
+														<div class="submit-button"><input type="submit" value="Subscribe" id="mc-embedded-subscribe"/></div>
+												</form>
+										</div>
+								</div>
+								<div class="row">
+										<div class="col-md-6">
+												<div class="date margin-top-30">
+														<div class="clock"></div>
+													<div class="message"></div>
+												</div>
+										</div>
+								</div>
+						</div>
 
             <div class="container">
                 <div class="row">
