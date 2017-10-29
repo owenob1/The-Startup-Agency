@@ -10,7 +10,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,800&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="img/favicon.ico" />
-  	<title>DRAWER - Building</title>
+  	<title>Startup Agency - Coming Soon!</title>
 </head>
 <body class="coming-soon-promo-style-1">
 
@@ -45,7 +45,14 @@
                     </div>
 
                 </div>
+								<div class="row">
+										<div class="col-md-6 margin-top-50">
+										</div>
+
+								</div>
             </div>
+
+
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-sm-6 mob-block-left">
@@ -97,7 +104,7 @@
                                 <div class="titel">
                                     Follow Us
                                 </div>
-                                <a class="thumbs" href="#"><i class="fa fa-facebook"></i></a>
+                                <a class="thumbs" href="https://www.facebook.com/The-Startup-Agency-134685210508663/"><i class="fa fa-facebook"></i></a>
                             </div>
                         </div>
                     </div>
