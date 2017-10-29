@@ -12,17 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('index');
-})->name('home');
-
-Route::get('about', function () {
-    return view('about');
-})->name('about');
-
-Route::get('contact', function () {
-    return view('contact');
-})->name('contact');
-
-Route::get('consultation', function () {
-    return view('consultation');
-})->name('consultation');
+    return view('v.0_1.index');
+})->name('index');
