@@ -47,10 +47,7 @@
                 </div>
 
 																		<div class="col-md-6 margin-top-50">
-								                        <form action="https://club.us16.list-manage.com/subscribe/post?u=7ac02a2df14d9e476a5fc267b&amp;id=5ca025d603" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-								                            <input type="email" id="mce-EMAIL" name="email" placeholder="Enter your email" value=""/>
-								                            <div class="submit-button"><input type="submit" value="Subscribe" id="mc-embedded-subscribe"/></div>
-								                        </form>
+
 								                    </div>
 
 
